@@ -1,0 +1,4 @@
+size, iter, type, CPU Time: CPU Time
+10, 1, Adj Matrix, CPU Time: 0.000005
+10, 1, Adj List, CPU Time: 0.000002
+
